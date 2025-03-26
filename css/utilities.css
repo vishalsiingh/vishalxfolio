@@ -160,9 +160,13 @@ h2::selection {
 } 
 
 /* Project 6 */
-/* .card:nth-child(6) {
-  background: url(../assets/project/project-six.png) center center/cover;
-} */
+.card:nth-child(6) {
+  background: url(../assets/project/proj_6.jpg) center center/cover;
+}
+/* Project 7 */
+.card:nth-child(7) {
+  background: url(../assets/project/proj_7.avif) center center/cover;
+}
 
 /* Media Queries */
 @media (max-width: 768px) {
